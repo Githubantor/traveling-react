@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "place_name": "Cox's Bazar",
+    "best_thing": "Longest natural sandy sea beach",
+    "image_url": "https://i.postimg.cc/qRjR9fJx/blogi-JR0-K1s-WVNFzin-GC-l4r3-Ids-VLyx-Zfkr.jpg"
+  },
+  {
+    "id": 2,
+    "place_name": "Sundarbans",
+    "best_thing": "Royal Bengal Tiger spotting",
+    "image_url": "https://i.postimg.cc/fT2wZjhD/images.jpg"
+  },
+  {
+    "id": 3,
+    "place_name": "Srimangal",
+    "best_thing": "Scenic tea gardens",
+    "image_url": "https://i.postimg.cc/nLvbsqNs/download-1.jpg"
+  },
+  {
+    "id": 4,
+    "place_name": "Rangamati",
+    "best_thing": "Stunning views of Kaptai Lake",
+    "image_url": "https://i.postimg.cc/Kj8dswjL/download-2.jpg"
+  },
+  {
+    "id": 5,
+    "place_name": "Saint Martin's Island",
+    "best_thing": "Pristine coral reefs",
+    "image_url": "https://i.postimg.cc/m2hvYv0W/download-3.jpg"
+  },
+  {
+    "id": 6,
+    "place_name": "Sylhet",
+    "best_thing": "Tea garden tours",
+    "image_url": "https://i.postimg.cc/5tWDM6jf/download-4.jpg"
+  },
+  {
+    "id": 7,
+    "place_name": "Bandarban",
+    "best_thing": "Trekking in Nilgiri Hills",
+    "image_url": "https://i.postimg.cc/zDkz2YtL/download.jpg"
+  },
+  {
+    "id": 8,
+    "place_name": "Dhaka",
+    "best_thing": "Exploring Lalbagh Fort",
+    "image_url": "https://i.postimg.cc/QtXPHwpP/download-5.jpg"
+  }
+]
